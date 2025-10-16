@@ -1,0 +1,23 @@
+{
+    "ticketNumber": "PLKRA20251016001",
+    "passengerName": "Jan Kowalski",
+    "departureStation": "Kraków Główny",
+    "arrivalStation": "Warszawa Centralna",
+    "departureTime": "2025-10-20T07:15:00",
+    "arrivalTime": "2025-10-20T10:05:00",
+    "trainNumber": "IC 5300",
+    "seat": {
+        "coach": "Wagon 5",
+        "number": 18,
+        "class": "2nd Class"
+    },
+    "price": 149.90,
+    "currency": "PLN",
+    "isRefundable": true,
+    "bookingChannel": "PKP Intercity Online",
+    "ticketType": "E-ticket",
+    "validity": {
+        "date": "2025-10-20",
+        "route": "Kraków Główny – Warszawa Centralna"
+    }
+}

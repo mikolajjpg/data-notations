@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <vehicle type="car" brand="Toyota">
+        <model>Corolla</model>
+        <year>2020</year>
+        <fuel>Petrol</fuel>
+        <color>Blue</color>
+    </vehicle>
+
+    <vehicle type="bicycle" brand="Trek">
+        <model>FX 3 Disc</model>
+        <year>2022</year>
+        <gearCount>18</gearCount>
+        <color>Black</color>
+    </vehicle>
+
+    <vehicle type="scooter" brand="Xiaomi">
+        <model>Mi Electric Scooter Pro 2</model>
+        <year>2021</year>
+        <batteryRange unit="km">45</batteryRange>
+        <color>Gray</color>
+    </vehicle>
+</transport>

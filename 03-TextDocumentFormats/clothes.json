@@ -53,5 +53,27 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Bershka",
+        "founded": 1998,
+        "headquarters": "Barcelona, Spain",
+        "employees": 13890,
+        "products": [
+            "Fashion Apparel",
+            "Footwear",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "True Religion",
+        "founded": 2002,
+        "headquarters": "Gardena, California, USA",
+        "employees": 3086,
+        "products": [
+            "Denim",
+            "Casual Wear",
+            "Accessories"
+        ]
     }
 ]

@@ -9,4 +9,14 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+
+    <smartphone brand="Apple" model="iPhone 12 mini" releaseYear="2020">
+        <specs>
+            <screenSize unit="inch">5.4</screenSize>
+            <batteryCapacity unit="mAh">2227</batteryCapacity>
+            <storage unit="GB">128</storage>
+            <camera unit="MP">12</camera>
+        </specs>
+        <price currency="USD">699</price>
+    </smartphone>
 </smartphones>
