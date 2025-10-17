@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sample Markdown</title>
+</head>
+<body>
+
+  <h1 id="sample-markdown">Sample Markdown</h1>
+
+  <h2 id="countries">Countries</h2>
+  <table border="1">
+    <thead>
+      <tr>
+        <th><strong>Country</strong></th>
+        <th><strong>Capital</strong></th>
+        <th><strong>Currency</strong></th>
+        <th><strong>Currency Symbol</strong></th>
+        <th><strong>Population</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>United States</td>
+        <td>Washington D.C.</td>
+        <td>US Dollar</td>
+        <td>USD</td>
+        <td>331002651</td>
+      </tr>
+      <tr>
+        <td>Japan</td>
+        <td>Tokyo</td>
+        <td>Yen</td>
+        <td>JPY</td>
+        <td>126476461</td>
+      </tr>
+      <tr>
+        <td>Germany</td>
+        <td>Berlin</td>
+        <td>Euro</td>
+        <td>EUR</td>
+        <td>83783942</td>
+      </tr>
+      <tr>
+        <td>Brazil</td>
+        <td>Brasília</td>
+        <td>Brazilian Real</td>
+        <td>BRL</td>
+        <td>212559417</td>
+      </tr>
+      <tr>
+        <td>India</td>
+        <td>New Delhi</td>
+        <td>Indian Rupee</td>
+        <td>INR</td>
+        <td>1380004385</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>This is some basic, sample markdown.</p>
+
+  <h2 id="second-heading">Second Heading</h2>
+  <ul>
+    <li>Unordered lists, and:
+      <ol>
+        <li>One</li>
+        <li>Two</li>
+        <li>Three</li>
+      </ol>
+    </li>
+    <li>More</li>
+  </ul>
+
+  <blockquote>
+    <p>Blockquote</p>
+  </blockquote>
+
+  <p>And <strong>bold</strong>, <em>italics</em>, and even <em>italics and later <strong>bold</strong></em>. Even <del>strikethrough</del>.</p>
+
+  <p>And code highlighting:</p>
+  <pre><code class="language-js">var foo = 'bar';
+
+function baz(s) {
+  return foo + ':' + s;
+}
+</code></pre>
+
+  <p>Or inline code like <code>var foo = 'bar';</code>.</p>
+
+  <p>Or an image of bears:</p>
+  <img src="http://placebear.com/200/200" alt="bears">
+
+  <p>The end ...</p>
+
+</body>
+</html>
